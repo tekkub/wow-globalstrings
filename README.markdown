@@ -7,7 +7,7 @@ This repository contains a copy of the GlobalStrings.lua file extracted from eac
 	<tbody>
 		<tr><th scope="row">deDE</th><td>Deutsch</td><td>German</td><td>Europe</td></tr>
 		<tr><th scope="row">enUS</th><td>English</td><td>English</td><td>Americas, Europe</td></tr>
-		<tr><th scope="row">esES</th><td>Español (Europa)</td><td>Spanish (Europe)</td><td>Europe</td></tr>
+		<tr><th scope="row">esES</th><td>Español (España)</td><td>Spanish (Spain)</td><td>Europe</td></tr>
 		<tr><th scope="row">esMX</th><td>Español (América Latina)</td><td>Spanish (Latin America)</td><td>Americas</td></tr>
 		<tr><th scope="row">frFR</th><td>Français</td><td>French</td><td>Europe</td></tr>
 		<tr><th scope="row">itIT</th><td>Italiano</td><td>Italian</td><td>Europe</td></tr>
@@ -15,7 +15,7 @@ This repository contains a copy of the GlobalStrings.lua file extracted from eac
 		<tr><th scope="row">ruRU</th><td>Русский</td><td>Russian</td><td>Europe</td></tr>
 		<tr><th scope="row">koKR</th><td>한국어</td><td>Korean</td><td>Korea</td></tr>
 		<tr><th scope="row">zhCN</th><td>简体中文</td><td>Simplified Chinese</td><td>China</td></tr>
-		<tr><th scope="row">zhTW</th><td>正體中文</td><td>Traditional Chinese</td><td>Taiwan</td></tr>
+		<tr><th scope="row">zhTW</th><td>繁體中文</td><td>Traditional Chinese</td><td>Taiwan</td></tr>
 	</tbody>
 </table>
 
