@@ -19,4 +19,4 @@ This repository contains a copy of the GlobalStrings.lua file extracted from eac
 	</tbody>
 </table>
 
-enGB and ptPT both exist as locale options in the European client, but are not included here as they are duplicates of enUS and ptBR, respectively. The client in English even returns enUS from a [GetLocale()](http://www.wowpedia.org/API_GetLocale) query; Portuguese was not tested, but is probably the same. If either locale is ever discovered to differ from its "base" locale, it will be added here.
+enGB and ptPT both exist as locale options in the European client, but are not included here as they are duplicates of enUS and ptBR, respectively. The EU client in English even returns enUS from a [GetLocale()](http://www.wowpedia.org/API_GetLocale) query; Portuguese was not tested, but is probably the same. If either locale is ever discovered to differ from its "base" locale, it will be added here.
