@@ -1,4 +1,4 @@
-This repository contains a copy of the GlobalStrings.lua file extracted from each localization of World of Warcraft. Each file contains all of the localized UI strings for the relevant locale.
+This repository contains copies of the FrameXML/GlobalStrings.lua and GlueXML/GlueStrings.lua files extracted from the various localized game clients for World of Warcraft. These files contains Blizzard's translated UI text for each locale. GlobalStrings.lua is loaded as part of the game UI, and its contents are available to addons. GlueStrings.lua is only loaded for the login and character/realm selection UI, so its contents are not available to addons.
 
 <table>
 	<thead>
