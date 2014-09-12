@@ -1,4 +1,6 @@
-This repository contains a copy of the GlobalStrings.lua file extracted from each localization of World of Warcraft. Each file contains all of the localized UI strings for the relevant locale.
+This repository contains copies of the FrameXML/GlobalStrings.lua and GlueXML/GlueStrings.lua files extracted from the various localized game clients for World of Warcraft.
+
+These files contains Blizzard's UI text translations for each locale. GlobalStrings.lua is loaded as part of the game UI, and its contents are available to addons. GlueStrings.lua is only loaded for the login and character/realm selection UI, so its contents are not available to addons, but may be of interest as a reference when localizing addons.
 
 <table>
 	<thead>
@@ -19,4 +21,4 @@ This repository contains a copy of the GlobalStrings.lua file extracted from eac
 	</tbody>
 </table>
 
-enGB and ptPT are not included here as they are duplicates of enUS and ptBR, respectively. Querying [GetLocale()](http://www.wowpedia.org/API_GetLocale) in a European client even returns enUS in English and ptBR in Portuguese. If either locale is ever discovered to differ from its "base" locale, as esMX differs from esES, it will be added here.
+enGB and ptPT files are not included here as they are duplicates of enUS and ptBR, respectively. Querying [GetLocale()](http://www.wowpedia.org/API_GetLocale) in a European client even returns enUS in English and ptBR in Portuguese. If either locale is ever discovered to differ from its "base" locale, as esMX differs from esES, it will be added here.
